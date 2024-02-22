@@ -10,7 +10,7 @@
 <h3>Контакты:</h3>
 <p align="left">
   <a href="https://t.me/Feral335">
-    <img src="telegram.png" alt="Telegram" width="70" height="40"/>
+    <img src="telegram.png" alt="Telegram" width="93" height="40"/>
   </a>
 </p>
 
